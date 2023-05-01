@@ -58,7 +58,7 @@
  <p align="center" dir="auto">
               &nbsp;   &nbsp;  <a href="https://www.linkedin.com/in/mdsaud/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/1b3a98a6f9dc0b661fff8ca80b84338580750ffba882bd625efe869293d05307/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="linkedin" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;"></a>
             &nbsp;   &nbsp;   &nbsp;   &nbsp;   <a title="mdsaud.mrj@gmail.com" href="mailto:mdsaud.mrj@gmail.com"><img align="center" src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67" width="50px" alt="mail-me" data-canonical-src="https://cdn-icons-png.flaticon.com/128/888/888853.png" style="max-width: 100%;"></a>
-            &nbsp;   &nbsp;   &nbsp;   &nbsp;  <a href="https://wa.me/919370093936" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67" width="50px" alt="whatsapp-me" data-canonical-src="https://cdn-icons-png.flaticon.com/128/733/733585.png" style="max-width: 100%;"></a>
+<!--             &nbsp;   &nbsp;   &nbsp;   &nbsp;  <a href="https://wa.me/919370093936" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67" width="50px" alt="whatsapp-me" data-canonical-src="https://cdn-icons-png.flaticon.com/128/733/733585.png" style="max-width: 100%;"></a> -->
             &nbsp;   &nbsp;   &nbsp;   &nbsp;  <a href="https://github.com/mohammadsaud-0110"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png" width="50px" alt="portfolio" style="max-width: 100%;"></a>
         </p>
 <p align="left">
@@ -70,10 +70,10 @@
   <h2 align="center" dir="auto"><a id="user-content-tech-stack-" class="anchor" aria-hidden="true" href="#tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>GitHub Stats</i></h2>
 
    
-<p  align="center" ><img   src="https://github-readme-stats.vercel.app/api?username=imran2909&show_icons=true&locale=en" alt="imran2909" /></p> 
-<p  align="center" ><img style="width:470px" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran2909&show_icons=true&locale=en&layout=compact" alt="imran2909" /></p> 
-<p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=imran2909&" alt="imran2909" /></p>
-          <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran2909" alt="imran2909" /></a> </p>
+<p  align="center" ><img   src="https://github-readme-stats.vercel.app/api?username=mohammadsaud-0110&show_icons=true&locale=en" alt="imran2909" /></p> 
+<p  align="center" ><img style="width:470px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsaud-0110&show_icons=true&locale=en&layout=compact" alt="mohammadsaud-0110" /></p> 
+<p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaud-0110&" alt="mohammadsaud-0110" /></p>
+          <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadsaud-0110" alt="mohammadsaud-0110" /></a> </p>
 
   <br><hr>
   
