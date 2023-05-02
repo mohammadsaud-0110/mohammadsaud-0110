@@ -8,12 +8,12 @@
 
 <img align="right" alt="coding" width="400px" style="margin-left:50px" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsaud-0110&label=Profile%20views&color=0e75b6&style=flat" alt="imran2909" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsaud-0110&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsaud-0110" /> </p>
 
 
 - 🌱 I’m currently learning *Full Stack Web Developement*
 
-- 💬 Ask me about *JavaScript, CSS , HTML , Nodejs , Express , MongoDB , DSA.*
+- 💬 Ask me about *JavaScript | CSS | HTML | Nodejs | Express | MongoDB | DSA.*
 
 - 👯 I’m looking to collaborate for Projects
 
@@ -68,9 +68,9 @@
   
   
   <h2 align="center" dir="auto"><a id="user-content-tech-stack-" class="anchor" aria-hidden="true" href="#tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><i>GitHub Stats</i></h2>
-
-   
-<p  align="center" ><img   src="https://github-readme-stats.vercel.app/api?username=mohammadsaud-0110&show_icons=true&locale=en" alt="mohammadsaud-0110" />Hello</p> 
+  
+<p  align="center" ><img   src="https://github-readme-stats.vercel.app/api?username=mohammadsaud-0110&show_icons=true&locale=en" alt="mohammadsaud-0110" /></p> 
+  
 <p  align="center" ><img style="width:470px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsaud-0110&show_icons=true&locale=en&layout=compact" alt="mohammadsaud-0110" /></p> 
 <p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaud-0110&" alt="mohammadsaud-0110" /></p>
           <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadsaud-0110" alt="mohammadsaud-0110" /></a> </p>
