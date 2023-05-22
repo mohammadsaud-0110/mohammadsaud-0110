@@ -1,4 +1,3 @@
-![logo](https://media.licdn.com/dms/image/D4E16AQH0L3jGZ6X_9A/profile-displaybackgroundimage-shrink_350_1400/0/1674559672070?e=1684368000&v=beta&t=0wd3l1uX3Pi3mhLPGmDM5ARb2RFQonUotV8HLleSATM)
 <h1 align="center">Hi 👋, I'm Mohammad Saud</h1>
 <h3 align="center"> 
   <img src="https://camo.githubusercontent.com/fffe3693d44b6b05cb4b79cdf000a8094f38eafdb1b3ab1d3e05eacc60ba6fbd/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d636f6d666f7274616126636f6c6f723d3031364545412673697a653d32342677696474683d353030266c696e65733d43757272656e746c792b4c6561726e696e672b46756c6c2d537461636b2b5765622b446576656c6f706d656e743b4f70656e2d536f757263652b446576656c6f7065723b4e6963652b746f2b6d6565742b796f752e2e2e" alt="" style="margin-left: -340px; font-size: 22px;">
@@ -72,7 +71,7 @@
 <p  align="center" ><img   src="https://github-readme-stats.vercel.app/api?username=mohammadsaud-0110&show_icons=true&locale=en" alt="mohammadsaud-0110" /></p> 
   
 <p  align="center" ><img style="width:470px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsaud-0110&show_icons=true&locale=en&layout=compact" alt="mohammadsaud-0110" /></p> 
-<p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaud-0110&" alt="mohammadsaud-0110" /></p>
+<p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaud-0110" alt="mohammadsaud-0110" /></p>
           <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadsaud-0110" alt="mohammadsaud-0110" /></a> </p>
 
   <br><hr>
