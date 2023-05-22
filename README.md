@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning *Full Stack Web Developement*
 
-- 💬 Ask me about *JavaScript | CSS | HTML | Nodejs | Express | MongoDB | DSA.*
+- 💬 Ask me about *JavaScript | CSS | HTML | Node.js | Express.js | MongoDB | MySQL | Redis | DSA.*
 
 - 👯 I’m looking to collaborate for Projects
 
 - 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned
 
-- 💓 I love designing websites and coding.
+- 💓 I love designing servers.
 
 - 📫 How to reach me *mdsaud.mrj@gmail.com*
 
