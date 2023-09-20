@@ -74,8 +74,9 @@
 <p  align="center" ><img   src="https://github-readme-stats.vercel.app/api?username=mohammadsaud-0110&show_icons=true&locale=en" alt="mohammadsaud-0110" /></p> 
   
 <p  align="center" ><img style="width:470px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsaud-0110&show_icons=true&locale=en&layout=compact" alt="mohammadsaud-0110" /></p> 
-<p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaud-0110" alt="mohammadsaud-0110" /></p>
+<p  align="center"></p>
 <p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com?user=mohammadsaud-0110" alt="mohammadsaud-0110" /></p>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaud-0110" alt="mohammadsaud-0110" />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadsaud-0110" alt="mohammadsaud-0110" /></a> </p>
 
   <br><hr>
