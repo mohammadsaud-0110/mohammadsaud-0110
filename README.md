@@ -10,11 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsaud-0110&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsaud-0110" /> </p>
 
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently learning *Node.js*
 
 - 💬 Ask me about *JavaScript | CSS | HTML | Node.js | Express.js | MongoDB | MySQL | Redis | DSA.*
-
-- 👯 I’m looking to collaborate for Projects
 
 - 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned
 
