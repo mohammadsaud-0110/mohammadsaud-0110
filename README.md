@@ -34,7 +34,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
 &nbsp; &nbsp; &nbsp; &nbsp;   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
 &nbsp; &nbsp; &nbsp; &nbsp;   <img src="https://play-lh.googleusercontent.com/9zvNJHedNg_6lOdwcodODMVsyeHKxuTIpnbBzomRGGZAp_vKVXnd5SlF8XZcXyGYjQ" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
- &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
+<!--  &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" style="width: 50px; height: 50px; margin-bottom: 5px;" alt=""> -->
 <!--  &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJCTPT5iKGh1Fzcwyz4aOdD5hvqAfpphGQHw&usqp=CAU" style="width: 50px; height: 50px; margin-bottom: 5px;" alt=""> -->
   
 
